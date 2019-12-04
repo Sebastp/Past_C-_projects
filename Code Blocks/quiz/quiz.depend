@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452945391 source:c:\users\sebastian\onedrive\c++\quiz\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
